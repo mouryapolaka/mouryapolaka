@@ -28,6 +28,6 @@
 
 <br />
 
-## My Git-Hub Stats
+## My GitHub Stats
 
 ![Mourya's github stats](https://github-readme-stats.vercel.app/api?username=mouryapolaka&show_icons=true&theme=algolia )
