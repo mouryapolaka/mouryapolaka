@@ -37,6 +37,14 @@
 ![Mourya's github stats](https://github-readme-stats.vercel.app/api?username=mouryapolaka&show_icons=true&theme=algolia )
 
 ## 
+[<img align="left" alt="MouryaPolaka | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MouryaPolaka | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="MouryaPolaka | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="MouryaPolaka | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MouryaPolaka | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [kaggle]: https://www.kaggle.com/mouryap
+[medium]: https://medium.com/@mourya.polaka
+[website]: http://www.mouryapolaka.com/
+[twitter]: https://twitter.com/mourya_polaka
+[linkedin]: https://www.linkedin.com/in/mouryapol/
