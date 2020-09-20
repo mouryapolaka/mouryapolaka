@@ -37,6 +37,6 @@
 ![Mourya's github stats](https://github-readme-stats.vercel.app/api?username=mouryapolaka&show_icons=true&theme=algolia )
 
 ## 
-<img align="left" alt="MouryaPolaka | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />[kaggle]
+[<img align="left" alt="MouryaPolaka | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 [kaggle]: https://www.kaggle.com/mouryap
