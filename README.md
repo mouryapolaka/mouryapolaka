@@ -33,11 +33,13 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
 ## My GitHub Stats
 
 ![Mourya's github stats](https://github-readme-stats.vercel.app/api?username=mouryapolaka&show_icons=true&theme=algolia )
 
+<br />
 ## My Other Pages
 [<img align="left" alt="MouryaPolaka | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MouryaPolaka | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
