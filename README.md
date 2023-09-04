@@ -35,10 +35,6 @@
 <br />
 <br />
 
-## My GitHub Stats
-
-![Mourya's github stats](https://github-readme-stats.vercel.app/api?username=mouryapolaka&show_icons=true&theme=algolia )
-
 ## My Other Pages
 [<img align="left" alt="MouryaPolaka | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MouryaPolaka | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
